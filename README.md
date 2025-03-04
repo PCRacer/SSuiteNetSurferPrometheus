@@ -35,4 +35,4 @@ So... take a seat, open a new tab, and get ready to browse the web like a Titan 
 
 ~
 
-### No Java or DotNet required. Green Energy Software! Saving the planet one bit at a time...
+### No Java or DotNet required. Green Energy Software! Saving the planet one bit at a time... 🌍🌎🌏
